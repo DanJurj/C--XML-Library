@@ -1,0 +1,13 @@
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MeniuPrincipal.resources
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ADDForm.resources
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.BooksForm.resources
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ModifyForm.resources
+C:\Users\Dan\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.StatisticsForm.resources

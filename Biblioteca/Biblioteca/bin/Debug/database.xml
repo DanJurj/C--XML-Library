@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Carti" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Carti">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Titlu" type="xs:string" minOccurs="0" />
+                <xs:element name="Autor" type="xs:string" minOccurs="0" />
+                <xs:element name="Editura" type="xs:string" minOccurs="0" />
+                <xs:element name="Anul_x0020_Editurii" type="xs:int" minOccurs="0" />
+                <xs:element name="An_x0020_Aparitie" type="xs:int" minOccurs="0" />
+                <xs:element name="Limba" type="xs:string" minOccurs="0" />
+                <xs:element name="Categorie" type="xs:string" minOccurs="0" />
+                <xs:element name="Pret" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Carti>
+    <Titlu>Padurea Spanzuratilor</Titlu>
+    <Autor>Liviu Rebreanu</Autor>
+    <Editura>Polirom</Editura>
+    <Anul_x0020_Editurii>1980</Anul_x0020_Editurii>
+    <An_x0020_Aparitie>1954</An_x0020_Aparitie>
+    <Limba>romana</Limba>
+    <Categorie>razboi</Categorie>
+    <Pret>200</Pret>
+  </Carti>
+  <Carti>
+    <Titlu>Inainte sa te cunosc</Titlu>
+    <Autor>Jojo Moyes</Autor>
+    <Editura>Moon</Editura>
+    <Anul_x0020_Editurii>1976</Anul_x0020_Editurii>
+    <An_x0020_Aparitie>2015</An_x0020_Aparitie>
+    <Limba>engleza</Limba>
+    <Categorie>fictiune</Categorie>
+    <Pret>169</Pret>
+  </Carti>
+  <Carti>
+    <Titlu>Fata din tren</Titlu>
+    <Autor>Paula Hawkins</Autor>
+    <Editura>Moon</Editura>
+    <Anul_x0020_Editurii>1678</Anul_x0020_Editurii>
+    <An_x0020_Aparitie>2016</An_x0020_Aparitie>
+    <Limba>romana</Limba>
+    <Categorie>drama</Categorie>
+    <Pret>126</Pret>
+  </Carti>
+  <Carti>
+    <Titlu>Mandrie si prejudecata</Titlu>
+    <Autor>Jane Austin</Autor>
+    <Editura>Olimp</Editura>
+    <Anul_x0020_Editurii>1990</Anul_x0020_Editurii>
+    <An_x0020_Aparitie>1978</An_x0020_Aparitie>
+    <Limba>germana</Limba>
+    <Categorie>dragoste</Categorie>
+    <Pret>56</Pret>
+  </Carti>
+  <Carti>
+    <Titlu>Romeo si Julieta</Titlu>
+    <Autor>William Shakespeare</Autor>
+    <Editura>Teora</Editura>
+    <Anul_x0020_Editurii>1877</Anul_x0020_Editurii>
+    <An_x0020_Aparitie>1876</An_x0020_Aparitie>
+    <Limba>engleza</Limba>
+    <Categorie>dragoste</Categorie>
+    <Pret>78</Pret>
+  </Carti>
+</NewDataSet>
